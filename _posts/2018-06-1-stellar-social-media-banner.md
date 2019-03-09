@@ -2,7 +2,7 @@
 title:  "Stellar Social Media Banner Pack"
 metadate: "hide"
 categories: [ Premium, UI, Graphics ]
-image: "/assets/images/k3djZatnlKiRlOvRlmRk,28252_cobi_-_laboratorium.jpg
+image: "/assets/images/k3djZatnlKiRlOvRlmRk,28252_cobi_-_laboratorium.jpg"
 "
 visit: "https://crmrkt.com/jVMvBb"
 ---
