@@ -30,9 +30,9 @@ layout: default
                     
     				{{ content }}
                     
-                    {% if page.visit %}
-                    <p><a target="_blank" href="{{page.visit}}" class="btn btn-gray d-block font-weight-bold">
-                        Visit <i class="fas fa-external-link-alt"></i></a>
+                    {% if page.amazon %}
+                    <p><a target="_blank" href="{{page.amazon}}" class="btn btn-gray d-block font-weight-bold">
+                        Amazon.de Affiliate-Link <i class="fas fa-external-link-alt"></i></a>
                     </p>
                     {% endif %}
 					
@@ -47,6 +47,13 @@ layout: default
                         # {{ category | downcase }}
                       </a>
                     {% endfor %}
+					
+					{% if page.disclaimer %}
+                   <small class="text-muted d-block mb-3">
+                    *The Image is either taken from Cobitoys.de or Amazon, i do not own any rights to these images*
+                   </small>
+                    {% endif %}
+					
                     
     				{% include comments.html %}
                     
