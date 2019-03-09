@@ -1,12 +1,12 @@
 # Site
-name: 'Pintereso'
-description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
+name: 'Cobi-Archive-Fansite'
+description: 'This Site tries to provide an overview of all Released Cobi Toys'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/template-pintereso-bootstrap-jekyll'
+baseurl: '/Cobi-Fansite'
 avatar: 'assets/images/sal.jpg'
 #disqus: 'demowebsite'
-email: 'test@example.de'
+email: 'sysadmin@cobi-archive.de'
 
 include: ["_pages"]
 permalink: /:title/
